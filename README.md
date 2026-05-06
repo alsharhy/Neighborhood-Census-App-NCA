@@ -135,5 +135,3 @@ To create a simple and effective digital system for accurately collecting popula
 *   Exporting data in Excel or PDF format
 
 ---
-
-**Author:** Manus AI
